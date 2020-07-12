@@ -4,7 +4,10 @@ text=&f&lWelcome to GitWeb
 
 #navigation
 item-link-1=meme.net
+item-label-1=főoldal
 item-link-2=meme.net/memes
+item-label-2=mémek
+
 
 #paragraph
 image=https://sayingimages.com/wp-content/uploads/you-want-squat-meme.png
