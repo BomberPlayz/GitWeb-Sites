@@ -3,7 +3,7 @@ image=https://i.ytimg.com/vi/IQUinje8ui4/maxresdefault.jpg
 text=&f&lMemeNET
 
 #navigation
-item-link-2=meme.net
-item-label-2=főoldal
-item-link-3=meme.net/memes
-item-label-3=mémek
+item-link-2=meme.net/memes
+item-label-2=mémek
+item-link-3=meme.net
+item-label-3=főoldal
