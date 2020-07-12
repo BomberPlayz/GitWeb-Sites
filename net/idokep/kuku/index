@@ -1,0 +1,11 @@
+#banner
+image=https://www.idokep.hu/images/logo_large.png
+text=&f&lIdokep
+
+#navigation
+item-link-2=idokep.net
+item-label-2=vissza
+
+#paragraph
+text=éppen nincs szeró
+padding=10
