@@ -3,4 +3,7 @@ image=https://www.idokep.hu/images/logo_large.png
 text=&f&lIdokep
 
 #navigation
-item-link-1=idokep.net
+item-link-2=idokep.net/elore/ma
+item-label-2=mai előre jelszés
+item-link-3=idokep.net/most
+item-label-3=most
