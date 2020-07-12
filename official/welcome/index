@@ -41,8 +41,10 @@ padding=10
 text=&e&lGitWeb&r was originally created by MinecraftDoodler. It is now updated and managed by MrCrayfish.
 padding=10
 
+#paragraph
+text=This was edited by BomberPlayz.
+
 #footer
 title=GitWeb
 sub-title=Copyright (c) MrCrayfish
-text=Edited by BomberPlayz.
 home-page=welcome.official
